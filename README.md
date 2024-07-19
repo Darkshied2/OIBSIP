@@ -4,13 +4,13 @@ There are 3 task given to complete. After completing all tasks, if everything lo
 
 
 ## Task1 - Portfolio
-A Calculator created under the virtual internship program of Oasis Infobyte. <br>
+A Portfolio created under the virtual internship program of Oasis Infobyte. <br>
 [Live](https://portfolio2-taupe-six.vercel.app/)
 
 ## Task2 - Temperature Converter
-A tribute page created under the virtual internship program of Oasis Infobyte. <br>
+A  Temperature Converter website created under the virtual internship program of Oasis Infobyte. <br>
 [Live](https://oibsip-kappa.vercel.app/)
 
 ## Task3 - Landing Page
-A TO-DO app created under the virtual internship program of Oasis Infobyte. <br>
+A tribute page created under the virtual internship program of Oasis Infobyte. <br>
 [Live](https://oibsip-mwpr.vercel.app/)
